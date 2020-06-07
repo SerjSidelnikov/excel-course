@@ -8,6 +8,7 @@
   "extends": ["eslint:recommended", "google"],
   "rules": {
     "require-jsdoc": "off",
-    "operator-linebreak": "off"
+    "operator-linebreak": "off",
+    "max-len": "off"
   }
 }
