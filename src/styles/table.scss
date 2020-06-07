@@ -70,7 +70,8 @@
     background: $primary-color;
     opacity: 0;
 
-    &:hover {
+    &:hover,
+    &:active {
       opacity: 1;
     }
   }
